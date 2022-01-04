@@ -12,6 +12,8 @@ Visit [JSHP-App](https://github.com/OogleGlu/JSHP-App) to explore.
 
 ### Results
 ```
+- Device:  Android with Termux
+- Host:    localhost
 - Browser: Chrome Android incognito
 - 2nd and 3rd records are reloads
 
