@@ -1,0 +1,27 @@
+{
+    "noExtension": [
+        ".jshp.html",
+        ".html"
+    ],
+    "trailingSlashes": true,
+    "redirects": [
+        {
+            "req": "/github",
+            "src": "https://github.com/OogleGlu/JSHP-App",
+            "status": 301
+        }
+    ],
+    "rewrites": [
+        {
+            "req": "/rwt1",
+            "src": "/config/"
+        },
+        {
+            "req": "/rwt2",
+            "src": "/logs/"
+        }
+    ],
+    "errFiles": {
+        "404": "/404.html"
+    }
+}
