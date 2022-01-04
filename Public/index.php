@@ -46,9 +46,6 @@
     <p>
         Use ?name= and ?uid= for passing parameters. These parameters will be displayed below.
     </p>
-    <p>
-        Polluting parameters will display an array.
-    </p>
 
     <p><b>Names: </b><?= $NAME ?></p>
     <p><b>UIDs: </b><?= $UID ?></p>
