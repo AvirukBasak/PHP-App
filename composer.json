@@ -1,0 +1,20 @@
+{
+    "name": "php-app",
+    "authors": [
+        {
+            "name": "OogleGlu",
+            "email": "avirukbasak@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url":  "git+https://github.com/OogleGlu/PHP-App.git"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "8.1.0"
+        }
+    }
+}
