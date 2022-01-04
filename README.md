@@ -1,5 +1,5 @@
 # PHP-App
-A PHP app made for comparison against [JSHP](https://github.com/OogleGlu/JSHP).
+A PHP app made for speed comparison against [JSHP](https://github.com/OogleGlu/JSHP).
 
 ### Opponent
 Visit [JSHP-App](https://github.com/OogleGlu/JSHP-App) to explore.
