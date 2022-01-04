@@ -26,11 +26,9 @@
         display: block;
         margin: 20px auto 20px;
         padding: 10px;
-        overflow: auto; ">
-        <?php
-            echo file_get_contents("../server.log");
-        ?>
-    </pre>
+        overflow: auto; "><?php
+        echo file_get_contents("../server.log");
+    ?></pre>
 
     <!-- normal browser script -->
     <script id="browser-script">
