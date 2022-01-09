@@ -36,6 +36,7 @@
             <li><a href="/github">/github</a> Redirects to https://github.com/OogleGlu/JSHP-App.</li>
             <li><a href="/headers.php">/headers.php</a> Request headers.</li>
             <li><a href="/logs/">/logs/</a> Server logs.</li>
+            <li><a href="/phpinfo/">/phpinfo/</a> Display server information</li>
             <li><a href="/redirect/f.php">/redirect/f.php</a> Open redirection.</li>
             <li><a href="/rwt1">/rwt1</a> Rewrites to /config/</li>
             <li><a href="/rwt2">/rwt2</a> Rewrites to /logs/</li>
