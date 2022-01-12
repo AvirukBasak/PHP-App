@@ -1,5 +1,8 @@
 # PHP-App
-A PHP app made for speed comparison against [JSHP](https://github.com/OogleGlu/JSHP).
+A PHP clone of [JSHP-App](https://github.com/OogleGlu/JSHP-App)
+
+<!--
+[JSHP](https://github.com/OogleGlu/JSHP).
 
 ### Opponent
 Visit [JSHP-App](https://github.com/OogleGlu/JSHP-App) to explore.
@@ -38,3 +41,4 @@ DYNAMIC    PHP (ms)    JSHP (ms)
 
 ### Conclusion
 PHP just destroys JSHP in serving dynamic files.
+-->
