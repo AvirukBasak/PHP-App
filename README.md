@@ -1,5 +1,5 @@
-# PHP-App
-A PHP clone of [JSHP-App](https://github.com/AvirukBasak/JSHP-App)
+# PHP App
+A PHP clone of [JSHP App](https://github.com/AvirukBasak/JSHP-App)
 
 <!--
 [JSHP](https://github.com/AvirukBasak/JSHP).
